@@ -22,7 +22,13 @@ Create a new directory for your Flask project.
 
 Create a Python file (e.g., app.py) containing your Flask application code.
 
-Define routes, handle requests, and render templates as needed.
+Fetching Stock Prices:
+
+Created a function (get_stock_prices()) to fetch stock prices from the Polygon.io API.
+
+Constructed the API URL using the user-provided stock symbol, start date, and end date.
+
+Sent a GET request to the Polygon.io API using the requests.get() function.
 
 
 Step 4: Install Dependencies :
