@@ -66,5 +66,5 @@ Check logs using docker logs if needed.
 
 **Final Results:** StockWatch App is running on our local host
 
- ![Final Result:](https://github.com/DivyaJyothiVundavalli/StockWatch/blob/main/Snaps/StockWatch.PNG)
+ ![Final Result:](https://github.com/DivyaJyothiVundavalli/StockWatch/blob/main/Snaps/Final%20Result.PNG)
 
