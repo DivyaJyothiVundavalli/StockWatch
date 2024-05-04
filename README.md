@@ -1,5 +1,5 @@
 # StockWatch
-**Flask App Development in Docker images:** The "Stock Price Tracker Application deployed with Docker" is a project aimed at providing real-time stock price
+**Flask App Development in Docker images:** The "Stock Price Tracker (StockWatch) Application deployed with Docker" is a project aimed at providing real-time stock price
 information to users through a web interface. The application is built using Flask, a lightweight Python web framework, and utilizes the Polygon.io API to fetch
 stock price data.
 
